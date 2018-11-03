@@ -12,7 +12,7 @@ VB 6.0 app for tracking farm animal features like:
 * owner
 * parents
 
-![alt text](https://raw.githubusercontent.com/andyfe76/InfoBuInfoSu/master/doc/interface.png)
+![alt text](https://raw.githubusercontent.com/andyfe76/InfoBuInfoSu/master/doc/main-interface.png)
 
 The scope of the app is to provide reseach institutes reports like:
 * trends in production, 
